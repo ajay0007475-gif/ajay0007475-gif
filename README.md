@@ -13,54 +13,54 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋 Hi, I'm Ajay Kumar
+# 👋 Hi, I'm Ajay Kumar
 
 Senior Automation Engineer | Backend Developer | Expanding into Python & LLM Engineering
 
 I specialize in designing scalable automation frameworks and backend systems. Currently focused on expanding into AI-driven application development and LLM-based testing systems.
 
-🚀 Core Expertise
+## 🚀 Core Expertise
 
-UI Automation (Playwright, Selenium)
+- UI Automation (Playwright, Selenium)
 
-API Automation (REST, SOAP)
+- API Automation (REST, SOAP)
 
-Framework Design & Architecture
+- Framework Design & Architecture
 
-CI/CD Integration
+- CI/CD Integration
 
-Backend Development (Node.js)
+- Backend Development (Node.js)
 
-Git & Enterprise Workflow Practices
+- Git & Enterprise Workflow Practices
 
-🐍 Current Focus
+## 🐍 Current Focus
 
-Python Engineering (structured learning)
+- Python Engineering (structured learning)
 
-FastAPI
+- FastAPI
 
-Pytest ecosystem
+- Pytest ecosystem
 
-LLM-based application development
+- LLM-based application development
 
-AI testing & evaluation frameworks
+- AI testing & evaluation frameworks
 
-🏗 Engineering Philosophy
+## 🏗 Engineering Philosophy
 
-Clean architecture
+- Clean architecture
 
-Feature-based development
+- Feature-based development
 
-Meaningful commits
+- Meaningful commits
 
-Documentation-driven workflow
+- Documentation-driven workflow
 
-Continuous learning mindset
+- Continuous learning mindset
 
-📌 Featured Repositories
+## 📌 Featured Repositories
 
-python-learning → Structured Python fundamentals
+- python-learning → Structured Python fundamentals
 
-automation-framework → Scalable test architecture
+- automation-framework → Scalable test architecture
 
 node-backend-projects → REST API implementations
