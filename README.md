@@ -63,4 +63,4 @@ I specialize in designing scalable automation frameworks and backend systems. Cu
 
 - automation-framework → Scalable test architecture
 
-node-backend-projects → REST API implementations
+- node-backend-projects → REST API implementations
